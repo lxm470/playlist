@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/weixin.png",group-title="国内",CHCHD
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-1.png",group-title="国内",CCTV1HD
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-1.png",group-title="国内",CCTV1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-2.png",group-title="国内",CCTV2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-3.png",group-title="国内",CCTV3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-4.png",group-title="国内",CCTV4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-5.png",group-title="国内",CCTV5
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-6.png",group-title="国内",CCTV6
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-7.png",group-title="国内",CCTV7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-8.png",group-title="国内",CCTV8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-19.png",group-title="国内",CCTV9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-10.png",group-title="国内",CCTV10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-11.png",group-title="国内",CCTV11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-12.png",group-title="国内",CCTV12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-13.png",group-title="国内",CCTV13
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-14.png",group-title="国内",CCTV14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-15.png",group-title="国内",CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-16.png",group-title="国内",CCTV-16
+http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+#EXTINF:-1 ,group-title="卫视",湖南卫视
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 ,group-title="卫视",江苏卫视
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 ,group-title="卫视",浙江卫视
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 ,group-title="卫视",东方卫视
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 ,group-title="卫视",深圳卫视
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 ,group-title="卫视",山东卫视
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 ,group-title="卫视",天津卫视
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 ,group-title="卫视",湖北卫视
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 ,group-title="卫视",广东卫视
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 ,group-title="卫视",辽宁卫视
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
