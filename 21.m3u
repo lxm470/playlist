@@ -1,0 +1,749 @@
+#EXTM3U
+#EXTINF:0,外AXN HD
+http://45.126.83.51/uq2663/h/h09/01.m3u8
+#EXTINF:0,外KIX HD
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:0,外KIX  HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:0,外PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0,外FILX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0,外RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0,外SONY CHANNEL HD
+http://45.126.83.51/uq2663/h/h06/01.m3u8
+#EXTINF:0,外Sony One HD
+http://45.126.83.51/uq2663/h/h13/01.m3u8
+#EXTINF:0,外PICTURES HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:0,外HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:0,外HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:0,外HBO 3
+http://87.246.0.155:5286/tv_HBO_3
+#EXTINF:0,外THRILL
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+#EXTINF:0,外THRILL2
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:0,外CINEMAX
+http://87.246.0.155:5286/tv_Cinemax_2
+#EXTINF:0,外SONY MOVIE
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,外FOX MOVIES PREMIUM*
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0,外FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:0,外FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:0,外CINEMA WORD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:0,外MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:0,外FASHION HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0,外FASHION MIDNITE HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,外FASHION PARIS HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,外FASHION MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:0,外FASHION PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
+#EXTINF:0,外FASHION MEN
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:0,外FASHION BRIDAL
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_bridal_adaptive.smil/media.m3u8
+#EXTINF:0,外FASHION FILMS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_films_adaptive.smil/media.m3u8
+#EXTINF:0,外FASHION FITNESS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_fitness_adaptive.smil/media.m3u8
+#EXTINF:0,外FASHION MIDDLE 
+http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_middle_e_60b_42114_middle_east_94_hls.smil/media.m3u8
+#EXTINF:0,外FASHION MODEL
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_top_models_adaptive.smil/media.m3u8
+#EXTINF:0,外FASHION PG13
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+#EXTINF:0,外FASHION PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:0,外CNN*
+http://161.0.157.7/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:0,外SKY NEWS HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:0,外CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:0,外CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0,外AINMAL动物星球
+http://37.26.71.125:19202
+#EXTINF:0,外DISCOVERY探索
+http://37.26.71.125:19201
+#EXTINF:0,外CGTN DOCUMENTARY
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+#EXTINF:0,外文DAVINCI
+http://45.126.83.51/uq2663/h/h01/index2.m3u8
+#EXTINF:0,外ZEE CAFE
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:0,外MTV音乐台 HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0,外MTV音乐台1
+http://92.249.129.152/stream/1music.m3u8
+#EXTINF:0,外MTV音乐台2
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:0,外MTV HD德国
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0,外MTV HD法国
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
+#EXTINF:0,体纬来体育HD
+http://59.120.242.104:9000/live/live12.m3u8
+#EXTINF:0,体SOCCER TV HD 足球
+http://45.126.83.51/uq2663/h/h20/index2.m3u8
+#EXTINF:0,港天映电影频道
+http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+#EXTINF:0,港天映电影频道2
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:0,港片电影轮播1
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:0,港片电影轮播2
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:0,港片电影轮播3
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:0,港好莱电影轮播 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0,港好莱电影轮播 2
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0,港好莱电影轮播 3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:0,港好莱坞六人行/老友记
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:0,港TVB翡翠台
+http://123.207.42.38/tvb.php?type=jade
+#EXTINF:0,港TVB財經HD
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:0,港凤凰中文
+http://117.169.72.6:8080/ysten-businessmobile/live/fhchinese/1.m3u8
+#EXTINF:0,港凤凰资讯
+http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
+#EXTINF:0,港凤凰香港 慢
+http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
+#EXTINF:0,港凤凰美洲 慢
+http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
+#EXTINF:0,台星卫电影台HD
+http://59.120.242.104:9000/live/live10.m3u8
+#EXTINF:0,台美亚电影台HD
+http://59.120.242.104:9000/live/live2.m3u8
+#EXTINF:0,台卫视西片台HD
+http://59.120.242.104:9000/live/live1.m3u8
+#EXTINF:0,台民视HD
+http://59.120.242.104:9000/live/live14.m3u8
+#EXTINF:0,台民视新闻HD
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:0,台中天新闻HD
+http://59.120.242.104:9000/live/live4.m3u8
+#EXTINF:0,台三立新闻HD
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:0,台年代新闻HD
+http://59.120.242.104:9000/live/live3.m3u8
+#EXTINF:0,台壹新闻HD
+http://59.120.242.104:9000/live/live8.m3u8
+#EXTINF:0,台TVBS新闻台
+http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:0,台华视资讯台
+http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
+#EXTINF:0,台东森美洲 慢
+http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8
+#EXTINF:0,台台视新闻
+http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
+#EXTINF:0,台亚洲旅游
+http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
+#EXTINF:0,台民视新闻2
+http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
+#EXTINF:0,台MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:0,台纬来日本HD
+http://59.120.242.104:9000/live/live11.m3u8
+#EXTINF:0,台-GoodTVHD2
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:0,台-GoodTVHD
+http://live.streamingfast.net/osmflivech8.m3u8
+#EXTINF:0,台-GoodTV1
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:0,台-GoodTV2
+http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:0,台 周星弛电影台HD
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:0,台 HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:0,台 国家地理
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:0,台 DISCOVERY探索 慢
+rtmp://58.200.131.2:1935/livetv/discovery
+#EXTINF:0,日本動畫ANIMAX HD 1
+http://45.126.83.51/dr9445/h/h18/01.m3u8
+#EXTINF:0,日本動畫ANIMAX HD 2
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29667?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
+#EXTINF:0,日本動畫ANIPLUS HD1
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:0,日本動畫ANIPLUS HD2
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29669?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
+#EXTINF:0,日本WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:0,日本NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:0,日本Shop Channel HD
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:0,日本Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:0,韩Chosun HD
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:0,韩Sony One HD2
+http://210.210.155.35/uq2663/h/h13/index.m3u8
+#EXTINF:0,韩Sony One HD3
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29596?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
+#EXTINF:0,韩K PLUS HD
+http://45.126.83.51/uq2663/h/h08/01.m3u8
+#EXTINF:0,韩Arirang South Korea HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,韩KBS WORLD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+#EXTINF:0,韩ktv
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF:0,澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:0,澳门卫视
+http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:0,澳门资讯
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:0,内a湖南卫视HD
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:0,内a東方卫视HD
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:0,内a江蘇卫视HD
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:0,内a浙江卫视HD
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+#EXTINF:0,内北京卫视HD
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+#EXTINF:0,内安徽卫视HD
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+#EXTINF:0,内黑龙江卫视HD
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+#EXTINF:0,内深圳卫视HD
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+#EXTINF:0,内广东卫视HD
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:0,内天津卫视HD
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+#EXTINF:0,内湖北卫视HD
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:0,内江西卫视HD
+http://103.242.13.90:5555/udp/239.4.1.29:10000
+#EXTINF:0,内河南卫视HD
+http://103.242.13.90:5555/udp/239.4.1.28:10000
+#EXTINF:0,内CCTV1
+http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
+#EXTINF:0,内CCTV1 快
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:0,内CCTV2
+http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
+#EXTINF:0,内CCTV3
+http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
+#EXTINF:0,内CCTV3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:0,内CCTV4
+http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
+#EXTINF:0,内CCTV5
+http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
+#EXTINF:0,内CCTV5+
+http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
+#EXTINF:0,内CCTV5+ 快
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:0,内CCTV6
+http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6
+#EXTINF:0,内CCTV6 快
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:0,内CCTV7
+http://183.207.248.71:80/cntv/live1/CCTV-7/cctv-7
+#EXTINF:0,内CCTV8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:0,内CCTV9
+http://183.207.248.71:80/cntv/live1/CCTV-9/cctv-news
+#EXTINF:0,内CCTV10
+http://183.207.248.71:80/cntv/live1/CCTV-10/cctv-10
+#EXTINF:0,内CCTV11
+http://183.207.248.71:80/cntv/live1/CCTV-11/cctv-11
+#EXTINF:0,内CCTV12
+http://183.207.248.71:80/cntv/live1/CCTV-12/cctv-12
+#EXTINF:0,内CCTV13
+http://183.207.248.71:80/cntv/live1/CCTV-13/cctv-13
+#EXTINF:0,内CCTV14
+http://183.207.248.71:80/cntv/live1/CCTV-14/cctv-14
+#EXTINF:0,内CCTV15
+http://183.207.248.71:80/cntv/live1/CCTV-15/cctv-15
+#EXTINF:0,内CHC高清 HD
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:0,Swamiji TV (Austria)
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b400000.m3u8
+#EXTINF:0,Hidabroot TV (Israel)
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:0,Hidabroot TV** (Israel)
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:0,House of Yahweh (USA)
+http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
+#EXTINF:0,Jewish Broadcasting Service (USA)
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:0,Kabbalah for the People (Israel)
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:0,Musayof (Israel)
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+#EXTINF:0,Catholic TV (USA)
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:0,Catholic Life TV (USA)
+http://origin5-edge1.ord.yourstreamlive.com:1935/live/yourstreamlive/out_657_198vbyhi/chunklist.m3u8
+#EXTINF:0,Christian Youth Channel (Egypt)
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
+#EXTINF:0,Divine Vision Network (USA)
+http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:0,Faith and Life TV (USA)
+http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+#EXTINF:0,JRES TV (USA) [ES]
+http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
+#EXTINF:0,Salt and Light TV (Canada)
+http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:0,K-TV (Austria)
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:0,KTO (France)
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:0,Padre Pio TV (Italy)
+https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
+#EXTINF:0,TV 2000 (Italy)
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+#EXTINF:0,TV 2000* (Italy)
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:0,Monte Maria (Mexico)
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+#EXTINF:0,Cristovision (Colombia)
+http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b500000.m3u8
+#EXTINF:0,Santuario de Fatima (Portugal)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:0,TV Louvar (Brazil)
+http://173.236.10.10:1935/renascer/renascer/live.m3u8
+#EXTINF:0,All Nations TV (USA)
+http://telvuelive-i.akamaihd.net/hls/live/203868/T01997/playlist.m3u8
+#EXTINF:0,Better Health (USA)
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:0,Better Life (USA)
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:0,Better Nature (USA)
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:0,Bible Explorations (USA)
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:0,Christian Television Network (USA)
+http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
+#EXTINF:0,Christian Television Network* (USA)
+http://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w846886780_b1764000.m3u8?fluxustv.m3u8
+#EXTINF:0,CTN - WRXY-TV (USA)
+http://ctn10.srfms.com:1935/ctn10/livestream/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:0,CTN - WVLR (USA)
+http://wvlrdt481.srfms.com:2233/live/livestream/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:0,Cornerstone TV (USA)
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+#EXTINF:0,Dr. Gene Scott (USA)
+http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+#EXTINF:0,Extrema TV (USA)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,God's Learning Channel (USA)
+http://fss27.streamhoster.com/lv_glc/_definst_/broadcast3/chuck.m3u8
+#EXTINF:0,GOD TV (USA)
+http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
+#EXTINF:0,Good Life 45 (USA)
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+#EXTINF:0,Gospel Truth TV (USA)
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+#EXTINF:0,Hillsong Channel (USA)
+https://acaooyalahd2-lh.akamaihd.net/i/TBN20_delivery@394530/master.m3u8?
+#EXTINF:0,HisChannel (USA)
+http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,Hope Channel (USA)
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+#EXTINF:0,Inspiration TV (USA)
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+#EXTINF:0,ISN (USA)
+http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+#EXTINF:0,LeSEA Broadcasting Network (USA)
+http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
+#EXTINF:0,Lifevision TV (USA)
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:0,LoveWorld USA (USA)
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8?
+#EXTINF:0,NRB Network (USA)
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:0,Smile TV (USA)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:0,Spirit TV* (USA)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_all/playlist.m3u8
+#EXTINF:0,Super Channel (USA)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-128/mp4:wacx/playlist.m3u8
+#EXTINF:0,Super Channel* (USA)
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-128/mp4:wacx/chunks.m3u8?fluxustv.m3u8
+#EXTINF:0,TBN (USA)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+#EXTINF:0,TBN (UK)
+https://acaooyalahd2-lh.akamaihd.net/i/TBN10_delivery@332891/index_2528_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,The Word Network (USA)
+http://thewordhls-i.akamaihd.net/hls/live/217932-b/thewordhls/iOS/stream1.m3u8
+#EXTINF:0,trueGODtv (USA)
+http://cdn.media15.truegod.tv/ibn/smil:ibn.smil/chunklist_b1128000_sleng.m3u8?fluxustv.m3u8
+#EXTINF:0,Victory Television Network (USA)
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:0,WGGS-TV (USA)
+https://d202lge9i6ts6.cloudfront.net/origin1ingest1/c7956aac88/chunklist.m3u8
+#EXTINF:0,World Harvest TV (USA)
+http://media1.lesea.com:1935/live/leseaorigin.stream/playlist.m3u8
+#EXTINF:0,GOD TV (UK)
+https://ooyalahd2-f.akamaihd.net/i/godtv06_delivery@17461/master.m3u8
+#EXTINF:0,Miracle Channel (Canada)
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+#EXTINF:0,Parole di Vita (Italy)
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624452/master.m3u8
+#EXTINF:0,Christian Television Network (USA)
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0,Esperanza TV (USA)
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:0,Vida Mejor (USA)
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:0,Vision Celestial (USA)
+http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8
+#EXTINF:0,MTM TV (Jamaica)
+http://media.btbn.tv/mtmtv/live/playlist.m3u8
+#EXTINF:0,Be The Light TV (Netherlands)
+http://54.38.193.109/btltv.m3u8
+#EXTINF:0,Omega (Iceland)
+http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8
+#EXTINF:0,Kingdom Sat (France)
+http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8?fluxustv.m3u8
+#EXTINF:0,Sobrenatural TV (Portugal)
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:0,Logos TV (Spain)
+http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
+#EXTINF:0,TNE TV (Chile)
+http://video.crearchile.info:8080/live/tnetv1/playlist.m3u8
+#EXTINF:0,Gracia TV (Chile)*
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
+#EXTINF:0,Nuevo Tiempo (Chile)
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+#EXTINF:0,Elim TV (El Salvador)
+http://live-15.viewer.dacast.com:80/i/dclive_1@397642/master.m3u8
+#EXTINF:0,TV CRET (El Salvador)
+http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8
+#EXTINF:0,Rhema Vision (Guatemala)
+http://va1.ministeriotv.com:1936/64/stream/chunklist_w738075461.m3u8
+#EXTINF:0,CDM Internacional (Puerto Rico)
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:0,Enlace (Costa Rica)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8
+#EXTINF:0,Enlace Juvenil (Costa Rica)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTINF:0,Comunion TV (Dominican Rep.)
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF:0,Comunion TV* (Dominican Rep.)
+http://50.30.37.36:1935/live/stream/chunklist_w1329394356.m3u8
+#EXTINF:0,Red ADVenir (Bolivia)
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+#EXTINF:0,SBN (USA) [PT]
+http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
+#EXTINF:0,Rede Seculo 21 (Brazil)
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
+#EXTINF:0,Novo Tempo (Brazil)
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+#EXTINF:0,Rede Familia (Brazil)
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/chunklist_w1834697316_b300000.m3u8
+#EXTINF:0,Rede Gospel (Brazil)
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+#EXTINF:0,Rede Genesis (Brazil)
+http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8
+#EXTINF:0,Aparecida (Brazil)
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:0,TV Gidoes (Brazil)
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
+#EXTINF:0,TV Betel (Brazil)
+http://45.43.208.98:1935/betelnc/betelnc/live.m3u8
+#EXTINF:0,MK Music (Brazil)
+http://45.43.208.98:1935/tvmonteiro/tvmonteiro/live.m3u8
+#EXTINF:0,Al Horreya (US) [AR]
+http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
+#EXTINF:0,BOG TV (Russia)
+http://bogtvhdlive-f.akamaihd.net/i/bogtv_main@69601/master.m3u8
+#EXTINF:0,Nadiya (Ukraine)
+http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+#EXTINF:0,HVCC (USA) [RO]
+http://cdn.credonet.tv:8081/hvcc/smil:livehv.smil/playlist.m3u8
+#EXTINF:0,TBN (Armenia)
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8?fluxustv.m3u8
+#EXTINF:0,SAT7kids (Jordan)
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:0,Al Waad (Lebanon)
+http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
+#EXTINF:0,Al Hayat 2 (Egypt)
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
+#EXTINF:0,Chaine Nord-Africaine (Algeria)
+http://str81.creacast.com/cna/live.sdp/playlist.m3u8
+#EXTINF:0,Hram TV (Serbia)
+http://178.253.194.75:1935/live/hram.stream/.m3u8
+#EXTINF:0,Al Sunnah Al Nabawiyah (KSA)*
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv
+#EXTINF:0,Makkah TV (KSA)
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+#EXTINF:0,Iqraa (KSA)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic
+#EXTINF:0,Iqraa Int'l (KSA) [EN]
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_america
+#EXTINF:0,Ayaat TV (KSA)
+http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+#EXTINF:0,Nour Dubai* (UAE)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+#EXTINF:0,KTV Ethraa (Kuwait)
+https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
+#EXTINF:0,Nour El Sham* (Syria)
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
+#EXTINF:0,Al Tanasuh TV (Libya)
+http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
+#EXTINF:0,Tayba TV (Sudan)
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
+#EXTINF:0,Semerkand SD (Turkey)
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+#EXTINF:0,Semerkand HD (Turkey)
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+#EXTINF:0,Amozhgary TV (Kurdistan)
+http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
+#EXTINF:0,MTA English (UK)
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:0,MTA Urdu (UK)
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+#EXTINF:0,The Islamic Network (Trinidad and Tobago)
+http://162.244.81.145:2215/live/livestream/playlist.m3u8
+#EXTINF:0,= NOV-29-2018
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:0,Smithsonian Panda Cam 1 [M3U8]
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:0,Smithsonian Panda Cam 2 [M3U8]
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+#EXTINF:0,DC Eagle Cam [M3U8]
+http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
+#EXTINF:0,Washington - District of Columbia - White House [M3U8]
+http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:0,Staten Island - New York
+http://100.42.129.28:80/mjpg/video.mjpg
+#EXTINF:0,Hamilton - New York
+http://149.43.156.105:80/mjpg/video.mjpg
+#EXTINF:0,Middletown - New York - KPC Webcam
+http://107.167.193.194:80/mjpg/video.mjpg
+#EXTINF:0,Wyoming - Devil's Tower
+http://72.36.32.28:80/mjpg/video.mjpg
+#EXTINF:0,San Francisco - California - KNTV Cam [M3U8]
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:0,Key West - Florida - Sloppy Joe's (Duval St.) [M3U8]
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+#EXTINF:0,Key West - Florida - Sloppy Joe's (Stage) [M3U8]
+http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
+#EXTINF:0,Key West - Florida - Hog's Breath Saloon (Bar Cam 01) [M3U8]
+http://wse1.resortcams.com/live-audio/hogsbreath1.stream_aac/chunklist.m3u8
+#EXTINF:0,Key West - Florida - Hog's Breath Saloon (Bar Cam 02) [M3U8]
+http://wse1.resortcams.com/live-audio/hogsbreath2.stream_aac/chunklist.m3u8
+#EXTINF:0,Key West - Florida - Irish Kevin's Bar (Bar Cam) [M3U8]
+http://wowza.floridakeysmedia.com:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8
+#EXTINF:0,Key West - Florida - Irish Kevin's Bar (Street Cam) [M3U8]
+http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
+#EXTINF:0,Panama City - Florida - Schooners (Beach Cam) [M3U8]
+http://media5.tripsmarter.com:1935/schoonersbeachHDCam830294711349/schbeach/chunklist.m3u8
+#EXTINF:0,Ft. Myers - Florida - Town Hall
+http://74.11.145.210:80/mjpg/video.mjpg
+#EXTINF:0,Lake Mary - Florida
+http://216.239.164.3:80/mjpg/video.mjpg
+#EXTINF:0,Coldwater - Michigan
+http://66.231.56.22:80/mjpg/video.mjpg
+#EXTINF:0,Ontonagon - Michigan
+http://204.38.53.141:80/mjpg/video.mjpg
+#EXTINF:0,Herndon - Virginia - Midway Home Service
+http://71.41.73.146:80/mjpg/video.mjpg
+#EXTINF:0,Ashburn - Virginia 01
+http://108.34.179.15:80/mjpg/video.mjpg
+#EXTINF:0,Ashburn - Virginia 02
+http://71.184.107.52:81/mjpg/video.mjpg
+#EXTINF:0,Richmond - Virginia - Science Museum of Virginia
+http://184.80.5.148:80/mjpg/video.mjpg
+#EXTINF:0,Sioux City - Iowa - Sioux Center
+http://67.55.224.10:80/mjpg/video.mjpg
+#EXTINF:0,Fairfield - Iowa - J. Raymond Chadwick Library
+http://69.18.18.83:80/mjpg/video.mjpg
+#EXTINF:0,Vermont - Middlebury College
+http://140.233.86.204:80/mjpg/video.mjpg
+#EXTINF:0,Vermont - Middlebury College Library
+http://140.233.86.205:80/mjpg/video.mjpg
+#EXTINF:0,Minneapolis - Minnesota - Itasca Station
+http://160.94.34.250:80/mjpg/video.mjpg
+#EXTINF:0,Sandusky - Ohio - Cedar Point Park 01 [M3U8]
+http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
+#EXTINF:0,Sandusky - Ohio - Cedar Point Park 02 [M3U8]
+http://cs2.pixelcaster.com:1935/live/cedar3.stream/playlist.m3u8
+#EXTINF:0,Sandusky - Ohio - Cedar Point Park 03 [M3U8]
+http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
+#EXTINF:0,Cincinnati - Ohio
+http://74.83.42.184:81/mjpg/video.mjpg
+#EXTINF:0,Bloomsburg - Pennsylvania - Bloomsburg University
+http://148.137.190.230:80/mjpg/video.mjpg
+#EXTINF:0,Reno - Nevada
+http://134.197.79.252:80/mjpg/video.mjpg
+#EXTINF:0,Fairfield - Montana
+http://76.75.8.116:80/mjpg/video.mjpg
+#EXTINF:0,Martin - Tennessee - Elam Center
+http://208.87.72.176:80/mjpg/video.mjpg
+#EXTINF:0,Mount Pleasant - Indiana - IWC Chapel
+http://69.18.18.80:80/mjpg/video.mjpg
+#EXTINF:0,Clear Lake - South Dakota
+http://75.102.185.50:8888/mjpg/video.mjpg
+#EXTINF:0,Madison - Wisconsin 01
+http://198.150.52.75:80/mjpg/video.mjpg
+#EXTINF:0,Madison - Wisconsin 02
+http://198.27.60.44:80/mjpg/video.mjpg
+#EXTINF:0,Boston - Massachusetts
+http://129.10.161.241:80/mjpg/video.mjpg
+#EXTINF:0,The Blue Mountains - Ontario - Craigleith Ski Club
+http://72.143.50.74:80/mjpg/video.mjpg
+#EXTINF:0,Montreal - Quebec
+http://69.70.89.58:8001/mjpg/video.mjpg
+#EXTINF:0,Saudarkrokur
+http://93.95.74.169:80/mjpg/video.mjpg
+#EXTINF:0,Reykjavik - Kopaskershofn
+http://157.157.90.210:80/mjpg/video.mjpg
+#EXTINF:0,Pieksamaki - Pieksanjarvi Lake
+http://79.141.146.78:80/mjpg/video.mjpg
+#EXTINF:0,Halmstad
+http://192.165.96.36:80/mjpg/video.mjpg
+#EXTINF:0,Sjoberg - Vasterbottens Lan
+http://81.8.239.195:80/mjpg/video.mjpg
+#EXTINF:0,Omlidstranda Camping
+http://193.213.5.46:8083/mjpg/video.mjpg
+#EXTINF:0,Kristiansund - More Og Romsdal
+http://85.93.226.222:8081/mjpg/video.mjpg
+#EXTINF:0,Gjora - SuCom AS
+http://88.84.54.2:80/mjpg/video.mjpg
+#EXTINF:0,Den Haag - Zuid-Holland
+http://145.131.207.18:82/mjpg/video.mjpg
+#EXTINF:0,Makkum - Zuiderzee State
+http://217.100.101.138:3000/mjpg/video.mjpg
+#EXTINF:0,Vlissingen - Zeeland 01
+http://213.34.234.165:8081/mjpg/video.mjpg
+#EXTINF:0,Vlissingen - Zeeland 02
+http://213.34.234.165:8082/mjpg/video.mjpg
+#EXTINF:0,FSC Webcam
+http://62.214.4.38:80/mjpg/video.mjpg
+#EXTINF:0,Friedrichshafen - Baden-Wurttemberg - Zeppelinflug
+http://212.62.204.231:8080/mjpg/video.mjpg
+#EXTINF:0,Bremen - Gemeinde Rednitzhembach Rathausplatz
+http://217.91.208.210:80/mjpg/video.mjpg
+#EXTINF:0,Velbert - Nordrhein-Westfalen
+http://217.5.197.4:80/mjpg/video.mjpg
+#EXTINF:0,Braunau am Inn - Oberosterreich [M3U8]
+http://92.39.160.45:8081/mjpg/video.mjpg
+#EXTINF:0,Salzburg 01
+http://213.153.61.185:8084/mjpg/video.mjpg
+#EXTINF:0,Salzburg 02
+http://195.70.117.61:80/mjpg/video.mjpg
+#EXTINF:0,Rauris - Rauriser Marktplatz
+http://195.70.107.151:80/mjpg/video.mjpg
+#EXTINF:0,Rauris Talblick
+http://195.70.109.177:80/mjpg/video.mjpg
+#EXTINF:0,Jerzens - Tirol - Airport
+http://83.218.163.132:8081/mjpg/video.mjpg
+#EXTINF:0,Salzburg - Berggasthof BiBerg
+http://85.199.24.194:80/mjpg/video.mjpg
+#EXTINF:0,Basel-Stadt - Neubau Biozentrum
+http://131.152.126.150:80/mjpg/video.mjpg
+#EXTINF:0,Zurich - Stalder Kucher
+http://213.200.245.146:83/mjpg/video.mjpg
+#EXTINF:0,Lausanne - Vaud 01
+http://130.223.93.252:80/mjpg/video.mjpg
+#EXTINF:0,Unknown
+http://195.176.31.70:80/mjpg/video.mjpg
+#EXTINF:0,Rome - Lazio - St. Peter's Basilica
+http://93.146.249.144:80/mjpg/video.mjpg
+#EXTINF:0,Pisa - Toscana
+http://79.5.248.181:80/mjpg/video.mjpg
+#EXTINF:0,Praia Carcavelos [M3U8]
+http://213.13.26.11:1935/live/carcavelos.stream/livestream.m3u8
+#EXTINF:0,Praia Costa Da Caparica [M3U8]
+http://213.13.26.11:1935/live/costa.stream/livestream.m3u8
+#EXTINF:0,Praia De Espinho [M3U8]
+http://213.13.26.11:1935/live/espinho.stream/livestream.m3u8
+#EXTINF:0,Praia De Sao Pedro [M3U8]
+http://213.13.26.11:1935/live/saopedro.stream/livestream.m3u8
+#EXTINF:0,Praia De Sao Torpes [M3U8]
+http://213.13.26.11:1935/live/saotorpes.stream/livestream.m3u8
+#EXTINF:0,Praia Do Guincho [M3U8]
+http://213.13.26.11:1935/live/guincho.stream/livestream.m3u8
+#EXTINF:0,Praia Do Norte [M3U8]
+http://213.13.26.11:1935/live/norte.stream/livestream.m3u8
+#EXTINF:0,Praia Madeira Jardim Do Mar [M3U8]
+http://213.13.26.11:1935/live/jardim.stream/livestream.m3u8
+#EXTINF:0,Praia Santa Cruz [M3U8]
+http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
+#EXTINF:0,La Laguna - Tenerife - BRT Tenerife
+http://161.72.25.11:80/mjpg/video.mjpg
+#EXTINF:0,Karachay-Cherkessia - Zelenchukskaya Observatory
+http://83.239.123.252:80/mjpg/video.mjpg
+#EXTINF:0,Ryazan Oblast - Vyshenski Monastyr
+http://212.26.225.115:80/mjpg/video.mjpg
+#EXTINF:0,Sverdlovsk Oblast - Lukino-Varino
+http://46.160.244.38:80/mjpg/video.mjpg
+#EXTINF:0,Korolyov - Moscow Oblast - Korolev Sity
+http://46.160.254.214:80/mjpg/video.mjpg
+#EXTINF:0,Perm Krai - Perm
+http://77.43.144.59:8081/mjpg/video.mjpg
+#EXTINF:0,Penza - Penza Oblast - Pushkina 43
+http://85.237.63.165:80/mjpg/video.mjpg
+#EXTINF:0,Vladimir - Vladimir Oblast
+http://84.53.206.194:80/mjpg/video.mjpg
+#EXTINF:0,Dolgoprudny Planernay
+http://87.228.103.93:80/mjpg/video.mjpg
+#EXTINF:0,Kiev
+http://31.42.168.71:80/mjpg/video.mjpg
+#EXTINF:0,Chrzanowice - Gomunice Lodzkie
+http://91.222.109.142:80/mjpg/video.mjpg
+#EXTINF:0,Tarnow - Malopolskie - Starodabrowska Polnoc
+http://95.174.36.75:8084/mjpg/video.mjpg
+#EXTINF:0,Zlin
+http://77.48.209.214:80/mjpg/video.mjpg
+#EXTINF:0,Baska - Moravskoslezsky Kraj
+http://217.197.149.7:88/mjpg/video.mjpg
+#EXTINF:0,Velke Mezirici - Vysocina Kraj
+http://78.156.144.221:80/mjpg/video.mjpg
+#EXTINF:0,Malacky 01
+http://78.41.175.170:2000/mjpg/video.mjpg
+#EXTINF:0,Malacky 02
+http://78.41.175.170:80/mjpg/video.mjpg
+#EXTINF:0,Shanghai - Skyline [M3U8]
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+#EXTINF:0,Babestation
+http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder5.smil/chunklist_b1500000.m3u8?fluxuslust.m3u8
+#EXTINF:0,Babestation Xtreme
+http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_/smil:2346-mbr.smil/playlist.m3u8?fluxuslust.m3u8
+#EXTINF:0,Jasmin TV (Opt-1)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
+#EXTINF:0,Miami TV (International)
+http://hlsdpi-cdn-as3.totalstream.net/dpilive/miamitv/mia/miamitv1/playlist.m3u8?auth=&uid=fp_caa877e246379b8d26f7382dbd32d326&appid=miamitv
+#EXTINF:0,Miami TV (Latin America)
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8?fluxuslust.m3u8
+#EXTINF:0,Miami TV (Mexico)
+http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8?fluxuslust.m3u8
+#EXTINF:0,Miami TV (USA)
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?fluxuslust.m3u8
+#EXTINF:0,Shemale Tube TV 1
+http://www.ast.tv/stream/1/master.m3u8?fluxuslust.m3u8
+#EXTINF:0,Shemale Tube TV 2
+http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
+#EXTINF:0,Visit-X TV (Opt-1)
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?fluxuslust.m3u8
+#EXTINF:0,Visit-X TV (Opt-2)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8?fluxuslust.m3u8
